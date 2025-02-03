@@ -1,0 +1,31 @@
+/* universal selector */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* specificity */
+div {
+    border: 2px solid red;
+}
+
+/* element selector */
+h1 {
+    color: red;
+}
+
+/* group delector */
+h1, p, a {
+    font-weight: bold;
+}
+
+/* class selector */
+.class1 {
+    margin-top: 10px;
+}
+
+/* specific selector */
+.class1 p {
+    font-size: 18px;
+    color: blue;
+}
