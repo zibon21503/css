@@ -1,0 +1,10 @@
+/* 
+h1=> selector
+color=> properties
+red=> value
+*/
+
+h1 {
+  color: red;
+  font-size: 24px;
+}
