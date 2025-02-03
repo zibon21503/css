@@ -1,0 +1,15 @@
+body {
+    background-image: url('image1.jpg');
+    color: white;
+}
+
+div {
+    background-color: lightcoral;
+    opacity: 0.5;
+    padding: 20px;
+}
+
+div h1, div p {
+    color: white;
+    text-align: center;
+}
